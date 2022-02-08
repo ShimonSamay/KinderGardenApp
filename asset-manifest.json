@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShimonSamay.github.io/KinderGardenApp/static/css/main.073c9b0a.css",
+    "main.js": "/ShimonSamay.github.io/KinderGardenApp/static/js/main.d348d02d.js",
+    "static/js/787.037850ac.chunk.js": "/ShimonSamay.github.io/KinderGardenApp/static/js/787.037850ac.chunk.js",
+    "index.html": "/ShimonSamay.github.io/KinderGardenApp/index.html",
+    "main.073c9b0a.css.map": "/ShimonSamay.github.io/KinderGardenApp/static/css/main.073c9b0a.css.map",
+    "main.d348d02d.js.map": "/ShimonSamay.github.io/KinderGardenApp/static/js/main.d348d02d.js.map",
+    "787.037850ac.chunk.js.map": "/ShimonSamay.github.io/KinderGardenApp/static/js/787.037850ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d348d02d.js"
+  ]
+}
